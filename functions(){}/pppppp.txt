@@ -1,0 +1,5 @@
+function poop(a,b,c){
+      var poopFart = a+b+c;
+      console.log(poopFart);
+}
+poop(1,2,3);
