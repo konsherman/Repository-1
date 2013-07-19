@@ -30,3 +30,4 @@ var week5 = 254;
 
 console.log (Math.floor(week1+week2+week3+week4+week5/5));
 */
+
