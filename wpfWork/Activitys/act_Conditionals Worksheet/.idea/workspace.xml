@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e044fcb-0ecb-4b63-86fe-f7117786e647" name="Default" comment="" />
-    <ignored path="Expressions.iws" />
+    <list default="true" id="a85e68e4-cc10-434e-8c98-0a5491a37144" name="Default" comment="" />
+    <ignored path="act_Conditionals Worksheet.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374847126732" ignored="false" />
-    <file path="/main.js" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374864638169" ignored="false" />
-    <file path="$PROJECT_DIR$/../Expressions_Worksheet/js/main.js" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374240016103" ignored="false" />
-    <file path="$USER_HOME$/Desktop/untitled2/js/script.js" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374256248087" ignored="false" />
-    <file path="/script.js" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374262333297" ignored="false" />
-    <file path="$USER_HOME$/Desktop/pname/js/script.js" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374500852328" ignored="false" />
-    <file path="$USER_HOME$/Desktop/pname/index.html" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374501140799" ignored="false" />
-    <file path="$USER_HOME$/Desktop/untitled/index.html" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374847128367" ignored="false" />
-    <file path="$USER_HOME$/Desktop/untitled/js/main.js" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374845700117" ignored="false" />
-    <file path="$USER_HOME$/Desktop/untitled/js/chooseYourOwnAdventure.js" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374507858807" ignored="false" />
-    <file path="/chooseYourOwnAdventure.js" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374506371875" ignored="false" />
-    <file path="$PROJECT_DIR$/../act_Conditionals Worksheet/in.html" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374860475216" ignored="false" />
-    <file path="$PROJECT_DIR$/../act_Conditionals Worksheet/js/main.js" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374864671447" ignored="false" />
-    <file path="/in.html" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374514684334" ignored="false" />
-    <file path="$USER_HOME$/Desktop/untitled/js/creeps.js" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374853086111" ignored="false" />
-    <file path="/creeps.js" changelist="9e044fcb-0ecb-4b63-86fe-f7117786e647" time="1374852705324" ignored="false" />
+    <file path="/in.html" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374514684334" ignored="false" />
+    <file path="/main.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374864638169" ignored="false" />
+    <file path="$USER_HOME$/Desktop/untitled/js/main.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374845700118" ignored="false" />
+    <file path="$USER_HOME$/Desktop/untitled/js/creeps.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374853086111" ignored="false" />
+    <file path="/creeps.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374852705324" ignored="false" />
+    <file path="$USER_HOME$/Desktop/untitled/index.html" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374847128367" ignored="false" />
+    <file path="/index.html" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374847126732" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,23 +26,41 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Expressions" />
+    <favorites_list name="act_Conditionals Worksheet" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="in.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/in.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="20" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+            <state line="6" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="24" selection-start="1322" selection-end="1322" vertical-scroll-proportion="0.76642334">
+            <state line="91" column="7" selection-start="2387" selection-end="2387" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Conditionals_Wacky/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="in.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../Conditionals_Wacky/in.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -67,15 +76,16 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/in.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
     <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="833" />
+    <option name="width" value="1438" />
+    <option name="height" value="829" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -103,32 +113,31 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions" />
+              <option name="myItemId" value="act_Conditionals Worksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions" />
+              <option name="myItemId" value="act_Conditionals Worksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions" />
+              <option name="myItemId" value="act_Conditionals Worksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions" />
+              <option name="myItemId" value="act_Conditionals Worksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Expressions" />
+              <option name="myItemId" value="act_Conditionals Worksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -138,12 +147,19 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Conditionals_Wacky" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../Conditionals_Wacky" />
+      <recent name="$PROJECT_DIR$/../../Conditionals_Personal" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -156,7 +172,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
+        <option name="engineId" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -166,32 +182,32 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9e044fcb-0ecb-4b63-86fe-f7117786e647" name="Default" comment="" />
-      <created>1374082204317</created>
-      <updated>1374082204317</updated>
+      <changelist id="a85e68e4-cc10-434e-8c98-0a5491a37144" name="Default" comment="" />
+      <created>1374514634019</created>
+      <updated>1374514634019</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="833" extended-state="7" />
+    <frame x="1" y="22" width="1438" height="829" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12759857" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10656316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12014134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -255,16 +271,37 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/../../Conditionals_Personal/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="20" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+        <state line="4" column="38" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="-3.75">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="24" selection-start="1322" selection-end="1322" vertical-scroll-proportion="0.76642334">
+        <state line="91" column="7" selection-start="2387" selection-end="2387" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Conditionals_Wacky/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Conditionals_Wacky/in.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
