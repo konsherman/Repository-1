@@ -30,9 +30,9 @@ secAge(); //this is running the function.
 
 
 //------Industry Conditional----------\\
-var typeOfWork= prompt("Enter What type of work you did.(web,photo,music,farts)");
-var hoursWorked=parseFloat (prompt("Enter how many hours you worked on your project."));
-var webPay=40;
+var typeOfWork= prompt("Enter What type of work you did.(web,photo,music,farts)");//prompt for people to enter well, what type of work to do
+var hoursWorked=parseFloat (prompt("Enter how many hours you worked on your project."));//promt that give us how many hours they worked on the project
+var webPay=40;  //here are all my variables to set how much money you get for each hour of the work you did, each one is diferent
 var photoPay=25;
 var musicPay=75;
 var fartPay=1000;

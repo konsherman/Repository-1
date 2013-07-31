@@ -4,13 +4,18 @@
     <list default="true" id="a85e68e4-cc10-434e-8c98-0a5491a37144" name="Default" comment="" />
     <ignored path="act_Conditionals Worksheet.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/in.html" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374514684334" ignored="false" />
-    <file path="/main.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374864638169" ignored="false" />
-    <file path="$USER_HOME$/Desktop/untitled/js/main.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374845700118" ignored="false" />
-    <file path="$USER_HOME$/Desktop/untitled/js/creeps.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374853086111" ignored="false" />
-    <file path="/creeps.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374852705324" ignored="false" />
-    <file path="$USER_HOME$/Desktop/untitled/index.html" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374847128367" ignored="false" />
-    <file path="/index.html" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1374847126732" ignored="false" />
+    <file path="/in.html" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1375121840182" ignored="false" />
+    <file path="/main.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1375299587327" ignored="false" />
+    <file path="$USER_HOME$/Desktop/untitled/js/main.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1375281614999" ignored="false" />
+    <file path="$USER_HOME$/Desktop/untitled/js/creeps.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1375278671602" ignored="false" />
+    <file path="/creeps.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1375278335196" ignored="false" />
+    <file path="$USER_HOME$/Desktop/untitled/index.html" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1375283532028" ignored="false" />
+    <file path="/index.html" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1375283531323" ignored="false" />
+    <file path="$USER_HOME$/Desktop/Functions Assignment/in.html" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1375121846789" ignored="false" />
+    <file path="$USER_HOME$/Desktop/Functions Assignment/js/main.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1375299604412" ignored="false" />
+    <file path="$USER_HOME$/Desktop/untitled/js/chooseYourOwnAdventure.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1375127448592" ignored="false" />
+    <file path="$USER_HOME$/Desktop/untitled/js/newthing.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1375285862003" ignored="false" />
+    <file path="/newthing.js" changelist="a85e68e4-cc10-434e-8c98-0a5491a37144" time="1375285678617" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,28 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="7" selection-start="2387" selection-end="2387" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Conditionals_Wacky/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="in.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../Conditionals_Wacky/in.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="33" column="26" selection-start="1147" selection-end="1157" vertical-scroll-proportion="0.7048458">
               <folding />
             </state>
           </provider>
@@ -190,7 +177,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="22" width="1438" height="829" extended-state="7" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -271,13 +258,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../Conditionals_Personal/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="38" selection-start="283" selection-end="283" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/in.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="-3.75">
@@ -287,21 +267,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="7" selection-start="2387" selection-end="2387" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Conditionals_Wacky/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Conditionals_Wacky/in.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="33" column="26" selection-start="1147" selection-end="1157" vertical-scroll-proportion="0.7048458">
           <folding />
         </state>
       </provider>
