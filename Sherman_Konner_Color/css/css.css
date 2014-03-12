@@ -1,0 +1,38 @@
+body {
+	background-color: #FFF573;
+	font-family: 'Montserrat Alternates', sans-serif; /*  got this font from google font site we learned about diforent fonts in class today so i thought i would give it a try    */
+	
+}
+
+h2 {
+	
+	padding: 15px;
+	background-color:rgba(239, 231, 118, 0.78);
+	
+}
+
+
+h1{
+	padding: 20px;
+	background-color: yellow;
+	
+
+}
+/* got all my colors from the hsl site and the adobe site. brought them into the hsl site to add opacity and stuff like that */
+ul {
+	
+	
+	margin: 10px;
+	background-color: hsla(56, 100%, 63%, 0.69);
+
+
+}
+
+#footer {
+	text-align: center;
+	padding: 10;
+	background-color: red;
+	font-size: .75em;
+
+}
+
