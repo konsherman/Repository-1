@@ -1,0 +1,90 @@
+body {
+	background-color: #FFF573;
+	font-family: 'Montserrat Alternates', sans-serif; /*  got this font from google font site we learned about diforent fonts in class today so i thought i would give it a try    */
+	font-size:1em;
+	text-indent: 1em;
+	
+
+}
+
+h2 {
+	
+	padding: 15px;
+	background-color:rgba(239, 231, 118, 0.78);
+	font-family: 'Mate SC', serif;
+	font-weight: 600;
+	text-shadow: 2px 2px #ff0000;
+	
+}
+
+
+h1{
+	padding: 20px;
+	margin: auto;
+	background-color: yellow;
+	font-family: 'Mate SC', serif;
+	font-weight: 600;
+	text-align: center;
+	letter-spacing: 4px;
+	
+
+}
+/* got all my colors from the hsl site and the adobe site. brought them into the hsl site to add opacity and stuff like that */
+ul {
+	
+	
+	
+	
+	
+
+
+}
+
+#footer {
+	text-align: center;
+	padding: 10;
+	background-color: red;
+	font-size: .75em;
+
+}
+#nav,ul {
+	display:inline;
+	margin: 10px;
+	text-align:center;
+	padding: 1%;
+	margin:auto;
+	list-style-type: none;
+	
+  
+}
+
+#stuff1,#stuff2,#lists {
+	background-color:hsla(56, 100%, 63%, 0.69);
+	width:600px;
+	padding: 1%;
+	margin:auto;
+	box-shadow: 10px 10px 35px black;
+	
+	
+	
+}
+#cheese {
+	float: left;
+
+}
+
+
+	a:link{color:darkblue;
+		text-decoration: none;
+	}
+	a:visited {	
+		color:black;
+		}
+	a:hover{
+		color:yellow; 
+		text-decoration: underline;
+	}
+	a:active{color:pink;}
+	
+
+
