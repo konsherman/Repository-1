@@ -1,0 +1,163 @@
+body {
+	background-image: url("../images/cheeseebackground.jpg"); 
+	font-family: 'Montserrat Alternates', sans-serif; /*  got this font from google font site we learned about diforent fonts in class today so i thought i would give it a try    */
+	font-size:1em;
+	text-indent: 1em;
+	
+
+}
+
+
+h2 {
+	
+	padding: 15px;
+	background-color:rgba(239, 231, 118, 0.78);
+	font-family: 'Mate SC', serif;
+	font-weight: 600;
+	text-shadow: 2px 2px #ff0000;
+	border-style: dashed;
+	border-width: 1px;
+	
+}
+
+
+h1{
+	padding: 20px;
+	margin: auto;
+	background: linear-gradient(to bottom, #fceabb 0%,#fccd4d 50%,#f8b500 51%,#fbdf93 100%); /* W3C */
+	background-color: yellow;
+	font-family: 'Mate SC', serif;
+	font-weight: 600;
+	text-align: center;
+	letter-spacing: 4px;
+	border-style: dotted;
+	border-width: 2px;
+	
+
+}
+/* got all my colors from the hsl site and the adobe site. brought them into the hsl site to add opacity and stuff like that */
+#box{
+background-color: red;
+width: 100px;
+height:100px;
+display:inline;
+margin: 0 auto;
+
+}
+
+
+input:focus{
+ background-color:rgba(239, 231, 118, 0.78);
+}
+
+textarea:focus, input:focus {
+	border: 2px solid red;
+	text-color:white;
+	display:block;
+	
+	
+}
+
+#footer {
+	
+	width: auto;
+	text-align: center;
+	margin:1%;
+	padding: 1%;
+	background-color: red;
+	font-size: .75em;
+
+}
+nav,ul {
+	display:inline;
+	margin: 1%;
+	text-align:center;
+	padding: 1%;
+	margin:auto;
+	list-style-type: none;
+	
+  
+}
+
+#effects {
+	
+	width:15%;
+	float: right;
+	margin-right: 3%;
+	background-image:url("../images/cheesey.png");
+	background-repeat: x;
+	
+	
+	
+}
+
+article{	background-color:hsla(56, 100%, 63%, 0.69);
+	width:50%;
+	padding: 1%;
+	margin:auto;
+	box-shadow: 10px 10px 35px black;
+	border-radius: 10px;}
+
+#stuff1,#stuff2,#lists, article {
+	background-color:hsla(56, 100%, 63%, 0.69);
+	width:50%;
+	padding: 1%;
+	margin:auto;
+	box-shadow: 10px 10px 35px black;
+	border-radius: 10px;
+
+	
+	
+	
+}
+th{font-weight: bold;border:2px dotted red;}
+
+
+table, td{
+width: auto;
+height auto;
+margin: 1% auto;
+background-color:rgba(239, 231, 118, 0.78);
+padding: 5px;
+text-align: right;
+border: 1px solid black;
+box-shadow: 5px 5px 5px black;
+border-spacing: 2px;
+
+
+
+}
+
+#form {
+	
+		
+	width:200px;
+	margin: 0px auto;
+	margin-top:10px;	
+	}
+
+
+
+#cheese {
+	float: left;
+	margin: 0px auto;
+
+}
+ 	
+ 	tr:hover { background: red; }
+	
+
+	a:link{color:darkblue;
+		text-decoration: none;
+	}
+	a:visited {	
+		color:black;
+		}
+	a:hover{
+		color:yellow; 
+		text-decoration: underline;
+	}
+	a:active{color:pink;}
+	
+
+
