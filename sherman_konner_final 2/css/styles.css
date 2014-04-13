@@ -1,0 +1,165 @@
+body {
+	background-color:#4d91be; 
+	background-repeat:repeat-x;
+	font-family: 'Questrial', sans-serif;
+	}
+
+
+	h1{
+
+	text-align:center;
+	background-color: white;
+	border-radius:10px;
+	box-shadow: 1px 1px 1px black;
+	font-size: 2em;
+	background-image:url("../images/mask.png");
+	background-repeat:no-repeat;
+	height:45px;
+
+
+}
+h2{
+	text-align:center;
+	background-color: white;
+	border-radius:10px;
+	box-shadow: 1px 1px 1px black;
+	font-size: 2em;
+	background-image:url("../images/fins.png");
+	background-repeat:no-repeat;
+	height:45px;
+
+
+}
+
+#floater{
+
+	float:left;
+
+}
+
+#mask,#fins{
+	float:left;
+	width:46px;
+	
+
+}
+
+header{
+	padding-top: 100px;
+	border-top:solid white 2px;
+	margin:0px auto;
+	color:white;
+	text-align:center;
+	background-image:url("../images/scuba.png");
+	width: 400px;
+	height:145px;
+	background-repeat:no-repeat;
+	letter-spacing: 4px;
+	
+	}
+#firsttext{
+		
+	border-bottom:solid white 2px;
+	font-size:3em;
+		
+		}
+		
+li,ul{
+	text-align:center;
+	width: auto; 
+	padding: 15px;
+	display: inline;
+	border-left:solid white 1px;
+	border-right:solid white 1px; 
+	 
+	
+	}
+
+#tank{
+float:right;
+
+}
+
+figure{
+	float:right;
+}
+
+#about,#about2{
+	
+	width:75%;
+	text-align:left;
+	border:solid white 1px; 
+	margin:0px auto;
+	margin-top:20px;
+	padding:10px;
+
+	
+	
+}
+
+
+#form{
+	padding-left: 1%;
+	width:200px;
+	
+	position:fixed;
+
+}
+
+
+
+#box{
+	
+	margin:0px auto;
+	width:50%;
+	margin-top:45px;
+	background-color:rgba(133, 206, 255, 0.6);
+	border-radius:15px;	
+	box-shadow: 2px 2px 2px black; 
+}
+
+
+
+
+
+table{
+float:right;
+margin: 1% auto;
+padding: 10px;
+text-align: center;
+border: 1px solid black;
+width:200px;
+
+background: #87e0fd;
+
+background: linear-gradient(to bottom,  #87e0fd 0%,#53cbf1 40%,#05abe0 100%);
+
+
+
+}
+
+tr:hover{
+
+	background-color:#4d91be;
+}
+
+
+
+
+a:link {
+	color: #000000;
+	text-decoration: none; 
+}
+a:visited {
+	color: #666666;
+	text-decoration: none; 
+}
+a:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+a:active {
+	color: #4D91BE;
+	text-decoration: none; 
+}
+
